@@ -2,7 +2,7 @@
     font-family: Berlin Sans FB;
 }
 
-@media (min-width: 300px) {
+@media (min-width: 275px) {
     .navbar {
         position: fixed;
         background: #000000;
