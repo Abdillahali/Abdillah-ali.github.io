@@ -152,7 +152,7 @@
         position: relative;
     }
 
-    .homepage h1 span::after{
+    /* .homepage h1 span::after{
         content: "";
         position: absolute;
         height: 100%;
@@ -168,7 +168,7 @@
             left:100%;
         }
         
-    } 
+    }  */
 
     .homepage h3 {
         margin: auto;
@@ -841,7 +841,7 @@
         -webkit-text-stroke-color: rgb(1, 1, 1);
     }
 
-    .homepage h1 span{
+    /* .homepage h1 span{
         position: relative;
     }
 
@@ -860,7 +860,7 @@
         100%{
             left:100%;
         }
-    }
+    } */
 
     .homepage h3 {
         margin: auto;
