@@ -148,7 +148,7 @@
     }
 
 
-    .homepage h1 span{
+    /* .homepage h1 span{
         position: relative;
     }
 
@@ -161,14 +161,14 @@
         border-left: 2px solid white;
         left: 0;
         animation: typing 6s steps(20) infinite;
-    }
+    } */
 
-    @keyframes typing {
+    /* @keyframes typing {
         100%{
             left:100%;
         }
         
-    }
+    } */
 
     .homepage h3 {
         margin: auto;
