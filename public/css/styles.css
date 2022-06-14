@@ -148,7 +148,7 @@
     }
 
 
-    /* .homepage h1 span{
+    .homepage h1 span{
         position: relative;
     }
 
@@ -168,7 +168,7 @@
             left:100%;
         }
         
-    }  */
+    } 
 
     .homepage h3 {
         margin: auto;
