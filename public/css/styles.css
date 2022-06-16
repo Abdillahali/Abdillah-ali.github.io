@@ -280,7 +280,7 @@
         z-index: 1;
         margin-top: 30px;
         width: 100%;
-        height: 900px;
+        height: 1000px;
         opacity: 3%;
     }
 
@@ -990,17 +990,17 @@
     .jumbotron .skill img{
         z-index: 1;
         width: 100%;
-        height: 100%;
+        height: 60%;
     }
     .skill-background img{
         z-index: 1;
         width: 100%;
-        height: 1800px;
+        height: 1700px;
         opacity: 3%;
     }
 
     .skill{
-        margin-top: -1800px;
+        margin-top: -1650px;
         align-items: center;
         z-index: 2;
         background-image: linear-gradient(to bottom left, rgb(41, 41, 41), black);
