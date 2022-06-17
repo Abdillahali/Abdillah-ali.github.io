@@ -1144,9 +1144,9 @@
       }
 
       .swiper .card img{
-          width: 300px;
-          margin-left: 30px;
-          margin-top: 40px;
+          width: 240px;
+          margin-left: 50px;
+          margin-top: 80px;
       }
       .swiper .card .deskripsi{
           margin-top: 30px;
@@ -1162,9 +1162,9 @@
       }
 
       .swiper .card .deskripsi p{
-        font-size: 12px;
+        font-size: 16px;
         margin-left: -80px;
-        font-weight: 500;
+        font-weight: 400;
       }
 
       .swiper .card .deskripsi a{
@@ -1213,6 +1213,12 @@
 
       .swiper .swiper-pagination{
         margin-top: 30px;
+      }
+
+
+      .swiper .modal .modal-body .carousel-item button span{
+    background-color: black;
+
       }
 
 
