@@ -82,7 +82,7 @@
         margin: auto;
         margin-left: 70px;
         margin-right: auto;
-        margin-bottom: 30px;
+        margin-bottom: 26px;
         position: fixed;
         z-index: 3;
         align-items: center;
@@ -695,7 +695,7 @@
     }
     footer p{
         color: #8f8f8f;
-        margin-bottom: 20px;
+        margin-bottom: 3px;
     }
 
     footer h5:hover{
