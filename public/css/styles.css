@@ -82,7 +82,7 @@
         margin: auto;
         margin-left: 70px;
         margin-right: auto;
-        margin-bottom: 20px;
+        margin-bottom: 26px;
         position: fixed;
         z-index: 3;
         align-items: center;
@@ -151,24 +151,6 @@
     .homepage h1 span{
         position: relative;
     }
-
-    /* .homepage h1 span::after{
-        content: "";
-        position: absolute;
-        height: 100%;
-        width: 100%;
-        background:#000000;
-        border-left: 2px solid white;
-        left: 0;
-        animation: typing 6s steps(20) infinite;
-    }
-
-     @keyframes typing {
-        100%{
-            left:100%;
-        }
-        
-    }  */
 
     .homepage h3 {
         margin: auto;
@@ -483,7 +465,6 @@
           text-decoration: none;
       }
 
-
       .swiper .swiper-button-prev{
         background-color: #ffffff;
         padding: 10px;
@@ -650,10 +631,6 @@
 
     }
 
-
-   
-
-
     footer{
         bottom: 0;
         background: #000000;
@@ -676,7 +653,9 @@
     }
 
     footer p{
-        margin-top: 40px;
+        color: #8f8f8f;
+        margin-top: 50px;
+        Padding-bottom: 30px;
         
     }
 
@@ -692,10 +671,6 @@
         text-transform: uppercase;
         text-decoration: none;
         
-    }
-    footer p{
-        color: #8f8f8f;
-        margin-bottom: 20px;
     }
 
     footer h5:hover{
